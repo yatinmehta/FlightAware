@@ -32,3 +32,8 @@ Search For The Places
 ![2](https://user-images.githubusercontent.com/93468770/212816290-18d0f091-9a00-421b-97dc-f1bb9fdee3a2.png)
 
 ![10](https://user-images.githubusercontent.com/93468770/212816437-0d7a3fee-3b75-44db-a386-485a5a60b63a.png)
+
+
+Currencies And Countries
+
+![8](https://user-images.githubusercontent.com/93468770/212816614-19b53efe-bf1f-485b-97fb-83498e21713e.png)
