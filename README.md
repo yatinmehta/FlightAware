@@ -7,8 +7,12 @@ HomePage
 
 Register
 
-![5](https://user-images.githubusercontent.com/93468770/212814348-b91b0022-4ceb-4a3b-896b-a4742cdceb61.png)
+![4](https://user-images.githubusercontent.com/93468770/212814550-64fc6346-7c55-4db9-b51d-dee74389bbd1.png)
+
+
 
 Login
 
-![4](https://user-images.githubusercontent.com/93468770/212814550-64fc6346-7c55-4db9-b51d-dee74389bbd1.png)
+![5](https://user-images.githubusercontent.com/93468770/212814348-b91b0022-4ceb-4a3b-896b-a4742cdceb61.png)
+
+
