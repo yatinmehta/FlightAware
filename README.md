@@ -19,3 +19,7 @@ Login
 Services
 
 ![1](https://user-images.githubusercontent.com/93468770/212814070-5fe0429c-81b5-41c9-9343-671a1024280b.png)
+
+FlightDetails
+
+![3](https://user-images.githubusercontent.com/93468770/212815762-e60f5c78-c1a7-419b-a18e-d321f82630fc.png)
